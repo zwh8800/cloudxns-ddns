@@ -8,7 +8,6 @@ import (
 	"fmt"
 	"io/ioutil"
 	"net/http"
-
 	"time"
 
 	"github.com/zwh8800/cloudxns-ddns/conf"
