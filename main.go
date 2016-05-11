@@ -2,13 +2,13 @@ package main
 
 import (
 	"os"
-	"runtime/debug"
-
 	"os/signal"
+	"runtime/debug"
 	"syscall"
 
 	"github.com/golang/glog"
 	"github.com/robfig/cron"
+
 	"github.com/zwh8800/cloudxns-ddns/cloudxns"
 	"github.com/zwh8800/cloudxns-ddns/conf"
 )
