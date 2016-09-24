@@ -1,6 +1,6 @@
 # CloudXNS-DDNS 动态域名客户端 docker 镜像
 
-标签（空格分隔）： blog CloudXNS DDNS docker 动态DNS
+https://lengzzz.com/note/a-docker-image-for-cloudxns-ddns
 
 ---
 
