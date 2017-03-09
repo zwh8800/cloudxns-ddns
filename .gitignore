@@ -28,5 +28,6 @@ _testmain.go
 cloudxns-ddns.iml
 cloudxns-ddns.gcfg
 cloudxns-ddns
+vendor
 
 # Created by .ignore support plugin (hsz.mobi)
