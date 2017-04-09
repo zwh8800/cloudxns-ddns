@@ -18,7 +18,7 @@ https://lengzzz.com/note/a-docker-image-for-cloudxns-ddns
 docker pull zwh8800/cloudxns-ddns
 ```
 
-然后，编写一个很简单的配置文件，放到某个文件夹中（如/home/zzz/cloudxns-ddns/config，下面以此为例子)
+然后，编写一个很简单的配置文件，文件名必须为 `cloudxns-ddns.gcfg`，把它放到某个文件夹中（如/home/zzz/cloudxns-ddns/config，下面以此为例子)
 
 ```ini
 [CloudXNS]
